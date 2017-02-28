@@ -1,0 +1,195 @@
+INFO [2017-02-21T16:55:29.380763660-05:00] Binding to 0.0.0.0:1123.
+INFO [2017-02-21T16:55:29.381001991-05:00] 0.0.0.0:1123
+INFO [2017-02-21T16:55:29.381087131-05:00] Now listening for clients...
+INFO [2017-02-21T17:10:50.596711801-05:00] Binding to localhost:1123.
+INFO [2017-02-21T17:10:50.597443833-05:00] [::1]:1123
+INFO [2017-02-21T17:10:50.597555668-05:00] Now listening for clients...
+INFO [2017-02-21T17:17:59.307325748-05:00] Binding to localhost:1123.
+INFO [2017-02-21T17:17:59.308056355-05:00] [::1]:1123
+INFO [2017-02-21T17:17:59.308169068-05:00] Now listening for clients...
+INFO [2017-02-21T17:18:51.459653100-05:00] Binding to localhost:1123.
+TRACE [2017-02-21T17:18:51.460377822-05:00] Bound to [::1]:1123
+INFO [2017-02-21T17:18:51.460482298-05:00] Now listening for clients...
+INFO [2017-02-21T17:24:42.455979258-05:00] Binding to localhost:1123.
+TRACE [2017-02-21T17:24:42.456676739-05:00] Bound to [::1]:1123
+INFO [2017-02-21T17:24:42.456788481-05:00] Now listening for clients...
+INFO [2017-02-23T15:18:49.812475100-05:00] Binding to localhost:1123.
+TRACE [2017-02-23T15:18:49.813177189-05:00] Bound to [::1]:1123
+INFO [2017-02-23T15:18:49.813280788-05:00] Now listening for clients...
+INFO [2017-02-23T15:55:49.402678632-05:00] Binding to localhost:1123.
+TRACE [2017-02-23T15:55:49.403462046-05:00] Bound to [::1]:1123
+INFO [2017-02-23T15:55:49.403570255-05:00] Now listening for clients...
+INFO [2017-02-26T16:09:24.537574443-05:00] Binding to localhost:1123.
+TRACE [2017-02-26T16:09:24.537961024-05:00] Bound to [::1]:1123
+INFO [2017-02-26T16:09:24.538015387-05:00] Now listening for clients...
+INFO [2017-02-26T16:34:09.450492793-05:00] Binding to localhost:1123.
+TRACE [2017-02-26T16:34:09.451266047-05:00] Bound to [::1]:1123
+INFO [2017-02-26T16:34:09.451384437-05:00] Now listening for clients...
+INFO [2017-02-26T16:35:42.221507599-05:00] Binding to localhost:1123.
+TRACE [2017-02-26T16:35:42.222268351-05:00] Bound to [::1]:1123
+INFO [2017-02-26T16:35:42.222432736-05:00] Now listening for clients...
+INFO [2017-02-26T17:42:54.052536847-05:00] Binding to localhost:1123.
+TRACE [2017-02-26T17:42:54.053229961-05:00] Bound to [::1]:1123
+INFO [2017-02-26T17:42:54.053333235-05:00] Now listening for clients...
+INFO [2017-02-26T17:44:09.412574623-05:00] Binding to localhost:1123.
+TRACE [2017-02-26T17:44:09.413380130-05:00] Bound to [::1]:1123
+INFO [2017-02-26T17:44:09.413497311-05:00] Now listening for clients...
+INFO [2017-02-26T17:45:08.091302103-05:00] Binding to localhost:1123.
+TRACE [2017-02-26T17:45:08.091850232-05:00] Bound to [::1]:1123
+INFO [2017-02-26T17:45:08.091916647-05:00] Now listening for clients...
+INFO [2017-02-26T17:46:41.808206819-05:00] Binding to localhost:123.
+ERROR [2017-02-26T17:46:41.808931704-05:00] Couldn't bind to port: Permission denied (os error 13)
+WARN [2017-02-26T17:46:54.467971319-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T17:46:54.468180429-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T17:46:54.468268605-05:00] Binding to localhost:123.
+TRACE [2017-02-26T17:46:54.468881713-05:00] Bound to [::1]:123
+INFO [2017-02-26T17:46:54.468984836-05:00] Now listening for clients...
+INFO [2017-02-26T18:02:47.199775454-05:00] Binding to localhost:123.
+ERROR [2017-02-26T18:02:47.200594368-05:00] Couldn't bind to port: Permission denied (os error 13)
+WARN [2017-02-26T18:02:58.700572880-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:02:58.700781590-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:02:58.700870027-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:02:58.701456360-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:02:58.701570738-05:00] Now listening for clients...
+WARN [2017-02-26T18:03:02.871865057-05:00] 24 bytes of extraneous data from [::1]:46563
+INFO [2017-02-26T18:17:25.711478778-05:00] Binding to localhost:123.
+ERROR [2017-02-26T18:17:25.712246737-05:00] Couldn't bind to port: Permission denied (os error 13)
+WARN [2017-02-26T18:17:38.594195620-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:17:38.594414128-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:17:38.594501494-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:17:38.595117579-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:17:38.595218192-05:00] Now listening for clients...
+WARN [2017-02-26T18:17:43.256861803-05:00] 4 bytes of extraneous data from [::1]:54867
+INFO [2017-02-26T18:37:41.620714903-05:00] Binding to localhost:123.
+ERROR [2017-02-26T18:37:41.621479617-05:00] Couldn't bind to port: Permission denied (os error 13)
+WARN [2017-02-26T18:37:56.364619233-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:37:56.364831022-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:37:56.364935109-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:37:56.365564042-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:37:56.365678406-05:00] Now listening for clients...
+ERROR [2017-02-26T18:37:58.996421818-05:00] Received incomplete packet (missing 76 bytes) from [::1]:45637
+INFO [2017-02-26T18:40:52.363742767-05:00] Binding to localhost:123.
+ERROR [2017-02-26T18:40:52.364077887-05:00] Couldn't bind to port: Permission denied (os error 13)
+WARN [2017-02-26T18:40:57.130442232-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:40:57.130646554-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:40:57.130734848-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:40:57.131322757-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:40:57.131425627-05:00] Now listening for clients...
+WARN [2017-02-26T18:42:33.712036457-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:42:33.712242736-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:42:33.712334616-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:42:33.712961879-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:42:33.713065861-05:00] Now listening for clients...
+WARN [2017-02-26T18:42:44.630896913-05:00] 948 bytes of extraneous data from [::1]:38465
+WARN [2017-02-26T18:46:24.930765626-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:46:24.930962821-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:46:24.931050009-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:46:24.931678404-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:46:24.931835172-05:00] Now listening for clients...
+ERROR [2017-02-26T18:46:27.478734872-05:00] Received incomplete packet (missing 50 bytes) from [::1]:48944
+WARN [2017-02-26T18:47:28.090610779-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:47:28.090816078-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:47:28.090905213-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:47:28.091497043-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:47:28.091604539-05:00] Now listening for clients...
+ERROR [2017-02-26T18:47:30.498466687-05:00] Received incomplete packet (missing 50 bytes) from [::1]:35455
+WARN [2017-02-26T18:48:02.306304926-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:48:02.306536015-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:48:02.306628597-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:48:02.307323797-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:48:02.307438553-05:00] Now listening for clients...
+WARN [2017-02-26T18:48:03.356345703-05:00] 948 bytes of extraneous data from [::1]:53630
+WARN [2017-02-26T18:48:59.282506023-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:48:59.282715531-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:48:59.282819-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:48:59.283514823-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:48:59.283625977-05:00] Now listening for clients...
+WARN [2017-02-26T18:49:04.753212819-05:00] 948 bytes of extraneous data from [::1]:56026
+WARN [2017-02-26T18:49:35.101659837-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:49:35.101866534-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:49:35.101954199-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:49:35.102584014-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:49:35.102694408-05:00] Now listening for clients...
+WARN [2017-02-26T18:49:35.944904306-05:00] 900 bytes of extraneous data from [::1]:33671
+WARN [2017-02-26T18:49:55.580583257-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:49:55.580714150-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:49:55.580764882-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:49:55.581199331-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:49:55.581259110-05:00] Now listening for clients...
+ERROR [2017-02-26T18:49:56.356928636-05:00] Received incomplete packet (missing 50 bytes) from [::1]:58680
+WARN [2017-02-26T18:50:32.113333849-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:50:32.113547064-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:50:32.113644316-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:50:32.114225325-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:50:32.114334396-05:00] Now listening for clients...
+ERROR [2017-02-26T18:50:33.707698011-05:00] Received incomplete packet (missing 50 bytes) from [::1]:33825
+WARN [2017-02-26T18:51:22.469020235-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:51:22.469113685-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:51:22.469142726-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:51:22.469414622-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:51:22.469453279-05:00] Now listening for clients...
+ERROR [2017-02-26T18:51:23.241642235-05:00] Received incomplete packet (missing 50 bytes) from [::1]:36950
+WARN [2017-02-26T18:51:51.069094364-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:51:51.069299580-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:51:51.069391561-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:51:51.069991653-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:51:51.070097386-05:00] Now listening for clients...
+ERROR [2017-02-26T18:51:51.913304672-05:00] Received incomplete packet (missing 50 bytes) from [::1]:49278
+WARN [2017-02-26T18:52:24.049005490-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:52:24.049215521-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:52:24.049308486-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:52:24.049947351-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:52:24.050052648-05:00] Now listening for clients...
+WARN [2017-02-26T18:52:27.089651893-05:00] 948 bytes of extraneous data from [::1]:40446
+WARN [2017-02-26T18:53:09.228193280-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:53:09.228397722-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:53:09.228486388-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:53:09.229072692-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:53:09.229175588-05:00] Now listening for clients...
+WARN [2017-02-26T18:53:09.854445737-05:00] 52 bytes of extraneous data from [::1]:59888
+WARN [2017-02-26T18:54:14.994461186-05:00] 52 bytes of extraneous data from [::1]:47697
+WARN [2017-02-26T18:56:31.804344709-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:56:31.804592782-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:56:31.804716610-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:56:31.805353452-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:56:31.805483674-05:00] Now listening for clients...
+WARN [2017-02-26T18:56:35.392974263-05:00] 52 bytes of extraneous data from [::1]:54368
+WARN [2017-02-26T18:57:17.115523058-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:57:17.115844618-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:57:17.115944075-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:57:17.116671879-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:57:17.116785064-05:00] Now listening for clients...
+WARN [2017-02-26T18:57:18.373291808-05:00] 1 bytes of extraneous data from [::1]:43723
+WARN [2017-02-26T18:59:54.112372761-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T18:59:54.112469444-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T18:59:54.112498776-05:00] Binding to localhost:123.
+TRACE [2017-02-26T18:59:54.112740401-05:00] Bound to [::1]:123
+INFO [2017-02-26T18:59:54.112775923-05:00] Now listening for clients...
+WARN [2017-02-26T18:59:56.100431468-05:00] 1 bytes of extraneous data from [::1]:43311
+INFO [2017-02-26T19:10:53.115550668-05:00] Binding to localhost:123.
+ERROR [2017-02-26T19:10:53.115950013-05:00] Couldn't bind to port: Permission denied (os error 13)
+WARN [2017-02-26T19:11:07.987135856-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T19:11:07.987347315-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T19:11:07.987435465-05:00] Binding to localhost:123.
+TRACE [2017-02-26T19:11:07.988100095-05:00] Bound to [::1]:123
+INFO [2017-02-26T19:11:07.988204333-05:00] Now listening for clients...
+WARN [2017-02-26T19:11:11.681309558-05:00] 1 bytes of extraneous data from [::1]:36017
+WARN [2017-02-26T19:14:23.876452924-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T19:14:23.876653944-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T19:14:23.876742401-05:00] Binding to localhost:123.
+TRACE [2017-02-26T19:14:23.877317513-05:00] Bound to [::1]:123
+INFO [2017-02-26T19:14:23.877419771-05:00] Now listening for clients...
+WARN [2017-02-26T19:14:24.723275852-05:00] 1 bytes of extraneous data from [::1]:44459
+WARN [2017-02-26T19:15:29.656576152-05:00] 1 bytes of extraneous data from [::1]:45874
+WARN [2017-02-26T19:17:59.779717001-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T19:17:59.779916686-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T19:17:59.780005140-05:00] Binding to localhost:123.
+TRACE [2017-02-26T19:17:59.780587943-05:00] Bound to [::1]:123
+INFO [2017-02-26T19:17:59.780690475-05:00] Now listening for clients...
+WARN [2017-02-26T19:18:07.881517232-05:00] 1 bytes of extraneous data from [::1]:35801
+WARN [2017-02-26T19:48:22.142079437-05:00] Running as root without daemonization. This is a bad idea!
+WARN [2017-02-26T19:48:22.142296040-05:00] Enable daemonization in the configuration by adding a [daemon] section.
+INFO [2017-02-26T19:48:22.142390596-05:00] Binding to localhost:123.
+TRACE [2017-02-26T19:48:22.143120842-05:00] Bound to [::1]:123
+INFO [2017-02-26T19:48:22.143237208-05:00] Now listening for clients...
+WARN [2017-02-26T19:48:23.534524805-05:00] 1 bytes of extraneous data from [::1]:37470

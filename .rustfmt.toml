@@ -1,0 +1,4 @@
+tab_spaces = 2
+reorder_imports = true
+single_line_if_else = true
+write_mode = "Overwrite"

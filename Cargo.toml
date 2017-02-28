@@ -1,0 +1,16 @@
+[package]
+name = "fntpd"
+version = "0.1.0"
+description = "An NTP server to hold the system clock at a constant time."
+authors = ["Nuew <code@nuew.net>"]
+
+[dependencies]
+chrono = { version = "0.3", features = ["serde"] }
+daemonize = "0.2"
+fern = "0.3"
+libc = "0.2"
+log = "0.3"
+nom = "2"
+serde = "0.9"
+serde_derive = "0.9"
+toml = "0.3"

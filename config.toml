@@ -1,0 +1,43 @@
+## The date, in ISO 8601 format, to hold the system clock at.
+date = 2014-01-01T12:00:00Z
+
+[network]
+## The IP address or hostname to listen on. "0.0.0.0" to listen to all IPs.
+ip = "localhost"
+## The IPv6 address or hostname to listen on. "::" to listen to all IPs.
+ip6 = "::"
+## The port to listen on (default 123)
+#port = 1123
+
+[log]
+## Log Level to use (case insensitive).
+## Options are: OFF, ERROR, WARN, INFO, DEBUG, TRACE
+level = "trace"
+## If provided, also log to this file
+file = "fntpd.log"
+
+## If specified and on a Unix system, daemonize.
+## If you are running as root, you SHOULD do this.
+## If you are running on Windows, ignore this section.
+#[daemon]
+## Use the specified pid file. If ommitted, do not use a pid file.
+#pid_file = "/run/fntpd.pid"
+
+## Use the specified working directory.
+## If ommitted, do not change working directory.
+#working_directory = "/"
+
+## Drop to the specifed user, or user id.
+## If both are ommitted, drop to "nobody".
+## If both are provided, the username will be used.
+#user = "nobody"
+#user_id = 99
+
+## Drop to the specifed group, or group id.
+## If both are ommitted, drop to "nobody".
+## If both are provided, the groupname will be used.
+#group = "nobody"
+#group_id = 99
+
+## A umask for file creation. If ommitted, use the default umask.
+#umask = 0o027
